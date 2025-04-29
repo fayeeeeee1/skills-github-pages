@@ -1,6 +1,6 @@
 name: Step 5, Merge your pull request
 
-# This step triggers after a pull requst is merged to `main`.
+# This step triggers after a pull request is merged to `main`.
 # This workflow updates from step 5 to step X.
 
 # This will run every time we create push a commit to `main`.
